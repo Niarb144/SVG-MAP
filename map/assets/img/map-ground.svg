@@ -1,0 +1,18 @@
+<svg id="map-ground" 
+
+xmlns="http://www.w3.org/2000/svg" 
+xmlns:xlink="http://www.w3.org/1999/xlink" 
+viewBox="0 0 600 600" 
+shape-rendering="geometricPrecision" 
+text-rendering="geometricPrecision">
+<rect id="map-ground-u-rectangle1" 
+width="255.058664" height="147.934024" rx="0" ry="0" 
+transform="translate(38.309812 166.298249)" fill="#10ef59" 
+stroke-width="0"/>
+<rect id="map-ground-u-rectangle2" 
+width="242.815847" height="147.934024" rx="0" ry="0" 
+transform="translate(293.368476 166.298249)" fill="#0b58f1" stroke-width="0"/>
+<rect id="map-ground-u-rectangle3" 
+width="242.815847" height="144.873321" rx="0" ry="0" 
+transform="translate(293.368476 314.232274)" fill="#da1b54" stroke-width="0"/>
+</svg>

@@ -1,0 +1,35 @@
+/* Import Google font - Poppins */
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500&family=Indie+Flower&family=Outfit:wght@300;500&family=Poppins:wght@200;400&family=Potta+One&family=Ysabeau+Office:ital,wght@0,400;1,300&display=swap');
+
+.ground-floor{
+    width: 800px;
+    height: 800px;
+    margin: auto;
+}
+
+#bigknife:hover{
+    fill: orange !important;
+    transition: all .5s;
+}
+
+#naivas:hover{
+    fill: url(#orange-green-gradient) #447799 !important;
+    transition: all .5s;
+}
+
+#silentnight:hover{
+    fill: #0e3997;
+    transition: all .5s;
+}
+
+#hotpoint:hover{
+    fill: black;
+    transition: all .5s;
+}
+
+.firstfloor{
+    width: 800px;
+    height: 800px;
+    margin: auto;
+}
+/*Other things here*/
